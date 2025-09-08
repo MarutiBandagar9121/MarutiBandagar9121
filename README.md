@@ -74,7 +74,7 @@
 
 <!-- <img src="https://raw.githubusercontent.com/MarutiBandagar9121/MarutiBandagar9121/output/snake.svg" alt="Snake animation" /> -->
 
-![snake animation](https://github.com/MarutiBandagar9121/MarutiBandagar9121/blob/output/github-contribution-grid-snake2.svg)
+<!-- ![snake animation](https://github.com/MarutiBandagar9121/MarutiBandagar9121/blob/output/github-contribution-grid-snake2.svg) -->
 
 ###
 
