@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Maruti Bandagar 👋</h1>
 
 <p align="center">
-  <b>Software Engineer</b> &nbsp;·&nbsp; Founding Engineer @ Estatehub Technologies &nbsp;·&nbsp; Pune, India
+  <b>Software Engineer</b> &nbsp;·&nbsp; Full-Stack &amp; Cloud &nbsp;·&nbsp; Pune, India
 </p>
 
 <p align="center">
-  Backend-focused engineer who's owned a production system end-to-end since being its first hire — requirements,<br/>
-  architecture, backend, frontend, cloud infra, and everything in between.
+  I take products from an empty repo to production — requirements, architecture, backend,<br/>
+  frontend, and the cloud infra underneath — and I'm always up for the next hard problem.
 </p>
 
 <p align="center">
@@ -31,11 +31,11 @@
 
 ### 🧭 About
 
-- 🚀 Joined **Estatehub Technologies** as an intern and was promoted to full-time in 4 months after taking end-to-end ownership of the product — now the **founding engineer**, working directly with stakeholders across the full lifecycle.
-- 🏗️ Designed a PostgreSQL data model from scratch for a real-estate domain (properties, agents, multi-entity workflows), and cut query cost 70–80% by replacing cascading queries with fetch-join DTOs.
-- ☁️ Run AWS + GCP infra independently — Docker deployments, CI/CD, async job processing (Cloud Tasks/Scheduler), cost and uptime, no dedicated DevOps team.
-- 🤖 Built an AI data pipeline that scrapes government property records, translates Marathi → English with Gemini, and structures the output for a stakeholder dashboard.
-- 🎓 B.Sc. Computer Science, Savitribai Phule Pune University — CGPA 9.17.
+- 🧩 I've owned products across their full lifecycle — requirements, architecture, data modeling, backend, frontend, deployment, and the maintenance that comes after.
+- 🏗️ I care about the foundations: clean data models, APIs that hold up under real load, and infra that doesn't need babysitting.
+- ☁️ Comfortable running my own cloud infrastructure end-to-end — deployments, CI/CD, cost, and uptime — not just writing application code.
+- 🤖 I enjoy pulling AI/LLM pieces into real products where they solve an actual problem, not just for the sake of it.
+- 🎯 Always looking for the next interesting software challenge, whatever the stack.
 
 ---
 
