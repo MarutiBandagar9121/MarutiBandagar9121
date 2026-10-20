@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  I take products from an empty repo to production — requirements, architecture, backend,<br/>
-  frontend, and the cloud infra underneath — and I'm always up for the next hard problem.
+  I take products from an empty repo to production - requirements, architecture, backend,<br/>
+  frontend, and the cloud infra underneath - and I'm always up for the next hard problem.
 </p>
 
 <p align="center">
@@ -46,7 +46,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Backend** &nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
